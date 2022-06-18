@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934864128204",
+    "project_id": "complaints-df847",
+    "storage_bucket": "complaints-df847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934864128204:android:43d0b30f4eac0383c8da69",
+        "android_client_info": {
+          "package_name": "jo.complaints.jordan.complaints_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934864128204-d1jml61cth1kdt0gu50g3gafosr7pqte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABHlgSlzsCMvUFVCsnDAM6hwv-u7uKQR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934864128204-d1jml61cth1kdt0gu50g3gafosr7pqte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
